@@ -1,0 +1,14 @@
+# Python virtual environments
+venv/
+.venv/
+bin/
+lib/
+include/
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
